@@ -1,4 +1,4 @@
-# Intelligent Border Video Analytics Platform (IBVAP) #The Project Is In The Devlopment Stage
+# Intelligent Border Video Analytics Platform (IBVAP) 
 
 IBVAP is a modular Python MVP that converts one RTSP camera (or a local fallback video) into an edge analytics node. It is intended for authorized, lawful perimeter security operations. Configure retention, access controls, human review, audit trails, and local privacy/legal requirements before deployment.
 
